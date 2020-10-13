@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shyren More</h1>
+
+<p align="center"><img src="https://media.giphy.com/media/ssV7kWQVM8MpfqTSJz/giphy.gif"/> </p>
+
+<h1 align="center"> I'm Shyren More</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyrenmore" alt="shyrenmore" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore" alt="shyrenmore" /> </p>
 
 - 🔭 I’m currently working on **React.js**
 
@@ -9,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **Django framework**
 
 - 💬 Ask me about **Bootstrap**
 
