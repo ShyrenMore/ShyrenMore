@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore" alt="shyrenmore" /> </p>
 
-#### 🤔 Who Am I!?
+## 🤔 Who Am I!?
 
 - 🏫 I am a student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (Maharashtra) [2023].
 
 - ♥️ I am really keen on web development
 
-#### My current status
+## My current status
 
 - 🔭 I’m currently working on **React.js**
 
@@ -73,9 +73,13 @@
 
 <img align="right" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyrenMore&langs_count=10&layout=compact&theme=tokyonight" />
 
+<br>
 
-<p align="center">
+## How to reach me 
+<footer>
+<p>
 <a href="https://linkedin.com/in/shyrenmore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shyrenmore" height="30" width="30" /></a>
 <a href="https://instagram.com/shyren_more" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shyren_more" height="30" width="30" /></a>
 <a href="mailto:shyren.more30@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="shyren_more" height="30" width="30" /></a>
 </p>
+</footer>
