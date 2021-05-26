@@ -5,19 +5,19 @@
 
 ## 🤔 Who Am I!?
 
-- 🏫 I am a student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (Maharashtra) [2023].
+- 🏫 I am a second-year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (Maharashtra) [2023].
 
-- ♥️ I am really keen on web development
+- ♥️ I am really keen on doing web development
 
 ## My current status
 
-- 🔭 I’m currently working on **[Student Portal](https://github.com/DevelopersLeague/StudentPortal)**
+- 🔭 I’m currently working on **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)**
 
-- 👓 I’m currently learning **React.js**
+- 👓 I’m currently working on **React.js** skills
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
-- 🤝 I’m looking for help with **Django framework**
+- 🤝 I’m looking for internships in front-end development
 
 - 💬 Ask me about **Bootstrap**
 
@@ -71,5 +71,5 @@
         </tbody>
 </table>
 
-<img align="right" alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyrenMore&langs_count=10&layout=compact&theme=tokyonight" />
+<img align="right" alt="Shyren's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyrenMore&langs_count=10&layout=compact&theme=tokyonight" />
 
