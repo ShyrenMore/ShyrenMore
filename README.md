@@ -10,19 +10,19 @@
 
 ## 🤔 Who Am I!?
 
-- 🏫 I am a second-year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (Maharashtra) [2023].
+- 🏫 I am a third-year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (Maharashtra) [2023].
 
-- ♥️ I am really keen on doing web development
+- ♥️ Developing UI since past 6-7 months.
 
 ## My current status
 
-- 🔭 I’m currently working on **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)**
+- 🔭 I’m recently worked on **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)**
 
-- 👓 I’m currently working on **React.js** skills
+- 👓 I’m currently working on **React.js** and **Machine Learning** skills
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on opportunities related to **web development**
 
-- 🤝 I’m looking for internships in front-end development
+<!-- - 🤝 I’m looking for internships in front-end development -->
 
 - 💬 Ask me about **Bootstrap**
 
@@ -30,14 +30,14 @@
 
 - ⚡ Fun fact **My name is pronounced as Shy run**
 
-## 🔥 My contribution streak
+<!-- ## 🔥 My contribution streak
 
 <p align="center">
   <a href="https://github.com/ShyrenMore/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShyrenMore#version3"/>
   </a>
 </p>
-
+ -->
 ## 👨‍💻 Languages and Tools:
 
 <table align="left">
