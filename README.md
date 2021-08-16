@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Shyren More</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Front-end+developer;Machine+learning+enthusiast;Can+code+few+lines+in+PHP+and+Django;Always+learning+new+things)](https://git.io/typing-svg)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore" alt="shyrenmore" /> </p>
 
