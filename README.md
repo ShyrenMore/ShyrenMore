@@ -16,7 +16,7 @@
 
 ## My current status
 
-- 🔭 I’m recently worked on **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)**
+- 🔭 I recently worked on **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)**
 
 - 👓 I’m currently working on **React.js** and **Machine Learning** skills
 
