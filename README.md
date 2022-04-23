@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Front-end+developer;Machine+learning+enthusiast;Can+code+few+lines+in+PHP+and+Django;Always+learning+new+things&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Front-end+developer;Machine+learning+enthusiast;Can+code+few+lines+in+PHP+and+Django;Always+learning+new+things&height=45&color=311219&vCenter=true"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore" alt="shyrenmore" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
 
 ### About me
 
@@ -49,4 +49,4 @@
 
 <br>
 
-[![Neha Anand's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShyrenMore&theme=react-dark)](https://github.com/ShyrenMore)
+[![Shyren More's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShyrenMore&theme=react-dark)](https://github.com/ShyrenMore)
