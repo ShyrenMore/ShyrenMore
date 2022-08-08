@@ -10,7 +10,7 @@
 
 ### About me
 
-- 🏫 I am a final student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023].
+- 🏫 I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023].
 - I learn and build new projects in **innovative and optimized** ways with the least tolerance for errors. While creating new projects I also intend to share the things that I’ve developed via well-worded markdown documentation on my repositories. An ambitious, passionate, and dedicated Computer Engineering Student aspiring to work in an environment that makes the best use of my abilities.
 
 | ![Shyren More's Github Stats](https://github-readme-stats.vercel.app/api?username=ShyrenMore&show_icons=true_color=fff&theme=algolia) |  ![Shyren More's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShyrenMore&theme=algolia) |
