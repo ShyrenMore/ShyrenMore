@@ -10,7 +10,7 @@
 
 ### About me
 
-- 🏫 I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023].
+- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023].
 - I learn and build new projects in **innovative and optimized** ways with the least tolerance for errors. While creating new projects I also intend to share the things that I’ve developed via well-worded markdown documentation on my repositories. An ambitious, passionate, and dedicated Computer Engineering Student aspiring to work in an environment that makes the best use of my abilities.
 
 | ![Shyren More's Github Stats](https://github-readme-stats.vercel.app/api?username=ShyrenMore&show_icons=true_color=fff&theme=algolia) |  ![Shyren More's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShyrenMore&theme=algolia) |
@@ -22,21 +22,15 @@
   
 
 
-- 🔭 I am recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/DevelopersLeague/Etherfunds)**
-
-- 👓 I’m currently working on **React.js** and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
-
+- I recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/DevelopersLeague/Etherfunds)**
+- I’m currently working on **React.js** and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 <!-- - 👯 I’m looking to collaborate on opportunities related to **web development** -->
-
-- 🤝 I’m looking for SDE/SWE internships 
-
+-  I’m looking for full-time roles as a software development engineer or similar role
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Documentation Tools/Frameworks: Markdown, PPT.
-
-- 📫 How to reach me **https://www.linkedin.com/in/shyrenmore/**
-
-- ⚡ Fun fact **My name is pronounced as Shy run**
+- How to reach me **https://www.linkedin.com/in/shyrenmore/**
+- Fun fact **My name is pronounced as Shy run**
 
 <!-- ## 🔥 My contribution streak
 
