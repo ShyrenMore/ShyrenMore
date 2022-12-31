@@ -15,7 +15,7 @@
 
 ### About my skills
 
-- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
+- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
 - I’m currently working on another personal project and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
@@ -61,9 +61,11 @@
 </details>
 
 <details><summary open>Coding profiles</summary>
+
+
 <p align="center">
-<a href="https://www.linkedin.com/in/shyrenmore/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Shyren More" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shyrenmore/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/codechef.png" alt="Shyren More" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/shyren_more" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://leetcode.com/shyren_more/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Shyren More" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/shyren_more" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/codechef.png" alt="Shyren More" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/The_fallen_emperor" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="40" width="40" /></a>
 </p>
 </details>
