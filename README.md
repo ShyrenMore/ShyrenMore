@@ -1,18 +1,16 @@
 <h1 align="center"> Hi 👋 I'm Shyren More </h1>
 
-<img src="">
 
 <p align="center">
-  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate | Computer Engineering;Available for freelance work!;Look below to know more about my skills&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer Engineering;Available for freelance work!;Look below to know more about my skills&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
 
 ### About me
 
-- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023] and looking for full-time roles as a software development engineer (SDE) or similar role.
-- I have been doing web development specifically front-end development using React JS library for about a year, recently I started exploring the field of blockchain
-- I learn and build new projects in innovative and optimized ways with the least tolerance for errors. While creating new projects I also intend to share the things that I’ve developed via well-worded markdown documentation on my repositories. An ambitious, passionate, and dedicated Computer Engineering Student aspiring to work in an environment that makes the best use of my abilities.
+- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023] specialising web development.
+- As a computer engineering student with a passion for innovation and a dedication to excellence, I strive to build and optimize new projects in the most efficient and error-free manner possible. I also enjoy sharing my work through clear and detailed markdown documentation on my repositories.
 - [**Are you a recruiter or have an opportunity? then click here**](https://shyrenmore.github.io/resume/resume.pdf)
 
 ### About my skills
