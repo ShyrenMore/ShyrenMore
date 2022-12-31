@@ -26,12 +26,18 @@
 - Fun fact **My name is pronounced as Shy run**
 
 
-<details><summary>Socials</summary>
-      
+<details><summary open>Connect with me!</summary>
+<p align="center">
+<a href="mailto:shyren.more30@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="shyren.more30@gmail.com" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shyrenmore/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Shyren More" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shyren_more" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
 </details>
 
 <details><summary>GitHub Stats</summary>
     
+---------
+
 | ![Shyren More's Github Stats](https://github-readme-stats.vercel.app/api?username=ShyrenMore&show_icons=true_color=fff&theme=algolia) |  ![Shyren More's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShyrenMore&theme=algolia) |
 | --- | --- |
 
