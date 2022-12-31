@@ -21,6 +21,23 @@
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Fun fact **My name is pronounced as Shy run**
 
+### Languages and tools
+
+<div>
+  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/react-native.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/django.png" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color-glass/48/null/solidity.png" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/css3.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/null/html-5.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/javascript--v1.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/bootstrap.png" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/external-outline-juicy-fish/60/null/external-sql-coding-and-development-outline-outline-juicy-fish.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/amazon-web-services.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/git.png" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 <details><summary open>Connect with me!</summary>
 <p align="center">
