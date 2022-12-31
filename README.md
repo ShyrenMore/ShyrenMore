@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer+Engineering;Available+for+freelance+work!;Look+below+to+know+more+about+my+skills&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer+Engineering;Available+for+freelance+work!;Learn+about+my+skills+below&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
@@ -15,8 +15,8 @@
 
 ### About my skills
 
-- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | EverHustle | StudNet
-- I’m currently working on **React.js** and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
+- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
+- I’m currently working on another personal project and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Fun fact **My name is pronounced as Shy run**
