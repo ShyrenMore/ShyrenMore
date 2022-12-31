@@ -2,25 +2,23 @@
 
 
 <p align="center">
-  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer Engineering;Available for freelance work!;Look below to know more about my skills&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer+Engineering;Available+for+freelance+work!;Look+below+to+know+more+about+my+skills&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
 
 ### About me
 
-- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai (India) [2023] specialising web development.
+- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai, India [2023] specialising in web development.
 - As a computer engineering student with a passion for innovation and a dedication to excellence, I strive to build and optimize new projects in the most efficient and error-free manner possible. I also enjoy sharing my work through clear and detailed markdown documentation on my repositories.
 - [**Are you a recruiter or have an opportunity? then click here**](https://shyrenmore.github.io/resume/resume.pdf)
 
 ### About my skills
 
-- I recently built **[Etherfunds | A blockchain based crowdfunding platform](https://github.com/DevelopersLeague/Etherfunds)**
+- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | EverHustle | StudNet
 - I’m currently working on **React.js** and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
-- Documentation Tools/Frameworks: Markdown, PPT.
-- How to reach me **https://www.linkedin.com/in/shyrenmore/**
 - Fun fact **My name is pronounced as Shy run**
 
 
