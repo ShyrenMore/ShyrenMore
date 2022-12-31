@@ -45,8 +45,10 @@
 
 </details>
 
-
-
-
-
-
+<details><summary open>Coding profiles</summary>
+<p align="center">
+<a href="https://www.linkedin.com/in/shyrenmore/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Shyren More" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shyrenmore/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/codechef.png" alt="Shyren More" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/shyren_more" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
+</details>
