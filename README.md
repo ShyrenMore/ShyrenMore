@@ -66,6 +66,6 @@
 <p align="center">
 <a href="https://leetcode.com/shyren_more/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="Shyren More" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/shyren_more" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/codechef.png" alt="Shyren More" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/The_fallen_emperor" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shyrenmore30/practice/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56788568/230769045-643f02a0-4cb3-43b5-b6c0-43b3b15f101d.svg" height="50" width="50" /></a>
 </p>
 </details>
