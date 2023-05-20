@@ -15,7 +15,7 @@
 
 ### About my skills
 
-- Projects: **[Etherfunds](https://youtu.be/UXFDYHBjoxo)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
+- Projects: **[EtherDocs](https://youtu.be/B_44aJ9hh6U)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
 - I’m currently working on another personal project and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
