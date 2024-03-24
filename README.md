@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Software+Developer+at+Barclays+|+Computer+Engineering;Available+for+freelance+work!;Learn+about+my+skills+below&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Software+Developer+at+Barclays;Computer+Engineering+Grad+2023;Available+for+freelance+work!;Learn+about+my+skills+below&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
