@@ -2,21 +2,20 @@
 
 
 <p align="center">
-  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=2023+Graduate+|+Computer+Engineering;Available+for+freelance+work!;Learn+about+my+skills+below&height=45&color=311219&vCenter=true"></a>
+  <a href="https://github.com/ShyrenMore"><img src="https://readme-typing-svg.herokuapp.com?color=5B5B5B&center=true&vCenter=true&lines=Software+Developer+at+Barclays+|+Computer+Engineering;Available+for+freelance+work!;Learn+about+my+skills+below&height=45&color=311219&vCenter=true"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyrenmore&color=5A84CA" alt="shyrenmore" /> </p>
 
 ### About me
 
-- I am a final year student pursuing Bachelor’s degree in Computer Engineering from the Thadomal Shahani Engineering College, Mumbai, India [2023] specialising in web development.
-- As a computer engineering student with a passion for innovation and a dedication to excellence, I strive to build and optimize new projects in the most efficient and error-free manner possible. I also enjoy sharing my work through clear and detailed markdown documentation on my repositories.
+- I am a software developer at Barclays, actively contributing to the Payments team's efforts in developing the next generation of credit cards.
+- As a computer engineering student(2023 Graduate) with a passion for innovation and a dedication to excellence, I strive to build and optimize new projects in the most efficient and error-free manner possible. I also enjoy sharing my work through clear and detailed markdown documentation on my repositories.
 - [**Are you a recruiter or have an opportunity? then click here**](https://shyrenmore.github.io/resume/resume.pdf)
 
 ### About my skills
 
 - Projects: **[EtherDocs](https://youtu.be/B_44aJ9hh6U)** | **[E-KYC](https://youtu.be/gURZPLN68ok)** | **[Cashflow](https://github.com/ShyrenMore/cashflow-frontend)** | **[EverHustle](https://github.com/DevelopersLeague/EverHustle-FrontEnd)** | **[StudNet](https://github.com/DevelopersLeague/StudNet)**
-- I’m currently working on another personal project and **[Problem Solving](https://github.com/ShyrenMore/Skylight)** skills
 - Skilled in C/C++ and JavaScript. Versed with Python and Java.
 - Comfortable working with ReactJS, Django, PHP, MySQL.
 - Fun fact **My name is pronounced as Shy run**
