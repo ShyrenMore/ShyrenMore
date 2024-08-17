@@ -9,7 +9,7 @@
 
 ### About me
 
-- I am a software developer at Barclays, actively contributing to the Payments team's efforts in developing the next generation of credit cards.
+- I am a software developer at Barclays, actively contributing to the Payments team's efforts in developing the **[Amazon Barclaycard](https://www.amazon.co.uk/dp/B0BH98211K)**.
 - As a computer engineering student(2023 Graduate) with a passion for innovation and a dedication to excellence, I strive to build and optimize new projects in the most efficient and error-free manner possible. I also enjoy sharing my work through clear and detailed markdown documentation on my repositories.
 - [**Are you a recruiter or have an opportunity? then click here**](https://shyrenmore.github.io/resume/resume.pdf)
 
